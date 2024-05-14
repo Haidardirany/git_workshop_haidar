@@ -32,6 +32,6 @@ public class Main {
     }
 
     public static int sum(int x, int y) {
-        return 10;
+        return 20;
     }
 }
